@@ -1,0 +1,138 @@
+
+======================================================================
+PAGE 1
+======================================================================
+C001 — Offshore Platform Engineering &
+Fabrication Contract
+Fictional training dataset — not a real commercial contract.
+Contract ID
+C001
+Contract Title
+Offshore Platform Engineering & Fabrication Contract
+Contractor
+NorthSea Energy Solutions Ltd.
+Client
+Atlantic Offshore Resources Ltd.
+Contract Value
+USD 48,600,000
+Effective Date
+15 Jan 2026
+Expiry Date
+30 Sep 2028
+Project Location
+Aberdeen, UK / North Sea Block A17
+Document Version
+1.0
+Contract Status
+Active
+
+======================================================================
+PAGE 2
+======================================================================
+1. Scope of Work
+• The Contractor shall provide engineering, procurement, fabrication, installation support, testing and documentation services
+associated with the offshore platform engineering & fabrication contract.
+• The work covers the assets and project area identified as Aberdeen, UK / North Sea Block A17. The Contractor shall maintain
+a project execution plan, quality plan, inspection and test plan, and document register.
+• Any work outside the defined scope requires a written Variation Order approved by authorised representatives of both parties.
+Verbal instructions do not constitute an approved change.
+• The platform package includes topside structural fabrication, equipment integration support and engineering documentation for
+offshore installation.
+2. Commercial Terms
+• The agreed contract value is USD 48,600,000. Unless expressly identified as reimbursable, the price includes labour,
+supervision, standard tools, project management, engineering documentation and ordinary overheads.
+• Invoices shall include the contract number, purchase order reference where applicable, milestone or service period, supporting
+evidence and applicable taxes. The Client may reject an invoice that is incomplete or materially inconsistent with the supporting
+records.
+• Payment shall be made within 30 calendar days of receipt and acceptance of a valid invoice. Disputed amounts may be
+withheld while undisputed amounts remain payable.
+3. Milestones and Deliverables
+• Key dates run from 15 Jan 2026 to 30 Sep 2028. The Contractor shall provide monthly progress reports, a
+forecast-to-complete, risk register, action log and updated schedule.
+• Typical milestone payments are: 10% mobilisation, 20% engineering approval, 30% procurement/fabrication progress, 25%
+mechanical completion, and 15% final acceptance, subject to contract-specific evidence.
+• Final acceptance requires completion of punch-list items, submission of as-built documentation, certificates and agreed
+close-out records.
+4. Performance, KPIs and Service Levels
+• The Contractor shall track schedule performance, safety performance, quality NCRs, inspection completion, document
+turnaround and milestone achievement.
+• A monthly KPI review shall classify performance as On Track, At Risk or Off Track. Repeated failure to meet agreed KPIs may
+trigger a corrective action plan.
+• For service interruption or missed critical milestones, the Contractor must notify the Client within 24 hours and provide a
+recovery plan within three business days.
+5. Quality and Inspection
+• All deliverables shall comply with the project specifications, approved drawings and applicable industry standards identified in
+the project quality plan.
+• The Client may inspect work and records on reasonable notice. Inspection does not relieve the Contractor of responsibility for
+quality or contractual compliance.
+• Non-conformances shall be logged, root cause assessed where appropriate, corrected and closed with objective evidence.
+6. HSE Requirements
+• The Contractor shall comply with applicable health, safety and environmental requirements and maintain a site-specific HSE
+plan.
+• Recordable incidents, environmental releases and high-potential events shall be notified to the Client without undue delay and
+formally reported within 24 hours.
+• Personnel shall hold required competency, certification and offshore medical/training documentation before mobilisation.
+
+======================================================================
+PAGE 3
+======================================================================
+7. Change Control
+• A Variation Order shall identify the requested change, reason, cost impact, schedule impact, assumptions and approval
+authority.
+• Approved variations shall be incorporated into the contract value and baseline schedule. Emergency work may proceed only
+where authorised under the emergency instruction procedure.
+• The Contractor shall maintain a variation register showing status, requested value, approved value and cumulative contract
+impact.
+8. Delay and Liquidated Damages
+• If a Contractor-responsible delay affects a contractual milestone, the Client may require a recovery plan and may apply
+liquidated damages of 0.10% of the affected milestone value per calendar week, capped at 10% of the total contract value.
+• Liquidated damages are intended as a contractual remedy for specified delay and do not apply to delays caused by approved
+variations, Client-caused delay or qualifying force majeure events.
+• The Contractor must promptly notify the Client of events that may affect critical-path dates.
+9. Liability, Insurance and Indemnity
+• Except for excluded liabilities, aggregate liability of the Contractor shall not exceed 100% of the contract value.
+• Excluded liabilities include fraud, wilful misconduct, death or personal injury caused by negligence, and third-party intellectual
+property infringement where expressly covered by the indemnity provisions.
+• The Contractor shall maintain employer liability, public liability, professional indemnity and project-specific insurance at levels
+stated in the insurance schedule.
+10. Confidentiality and Data
+• Commercial, technical, operational and project information exchanged under the contract shall be treated as confidential and
+used only for contract performance.
+• Project data shall be stored in authorised systems with access restricted to personnel with a legitimate business need.
+• Confidentiality obligations survive contract expiry for five years, except where a longer period is required by law or for protected
+intellectual property.
+11. Termination
+• Either party may terminate for material breach if the breach is not remedied within 30 days after written notice.
+• The Client may terminate for convenience on 60 days written notice. In such case, the Contractor shall be paid for accepted
+work performed and properly documented demobilisation costs, subject to the contract terms.
+• Immediate termination may apply for insolvency, fraud or serious HSE misconduct where permitted by applicable law.
+12. Force Majeure and Disputes
+• A force majeure event means an exceptional event beyond reasonable control that prevents performance and is not caused by
+the affected party's negligence.
+• The affected party shall notify the other party within seven days and use reasonable efforts to mitigate the impact.
+• Disputes shall first be referred to project management representatives, then senior management. If unresolved, disputes shall
+be finally resolved by arbitration in London under the agreed arbitration rules.
+13. Governing Law
+• The governing law for this contract is the law of England and Wales, unless a project-specific schedule expressly states
+otherwise.
+• Nothing in this section prevents the parties from agreeing written amendments to applicable dispute procedures.
+
+======================================================================
+PAGE 4
+======================================================================
+14. Key Contacts and Governance
+• Contract governance meetings shall occur monthly. The Contractor shall maintain an action tracker and provide minutes within
+five business days.
+• Client: Atlantic Offshore Resources Ltd.. Contractor: NorthSea Energy Solutions Ltd.. Project location: Aberdeen, UK / North
+Sea Block A17.
+• Only authorised contract representatives may approve commercial changes, variations or extensions.
+15. Contract-Specific Commercial Schedule
+Advance payment
+10% against bank guarantee
+Warranty
+18 months from commissioning
+Retention
+5% until final acceptance
+Currency
+USD
+End of fictional contract document.

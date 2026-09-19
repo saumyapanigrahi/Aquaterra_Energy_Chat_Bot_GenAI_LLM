@@ -1,0 +1,22 @@
+python-dotenv
+## Framework / technology for AI agents
+langchain
+langchain-core
+langchain-community
+
+## LLM Provider
+
+langchain-groq
+
+## Chunking
+langchain-text-splitters
+
+## Vector Store
+faiss-cpu
+
+## Notebooks
+jupyter
+ipykernel
+
+## Web App
+streamlit
